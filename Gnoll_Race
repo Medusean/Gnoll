@@ -7,7 +7,7 @@
 		<description>The Gnoll Race from the D&amp;D Wiki, created by user "24.247.206.2", with minor contributions from other users.</description>
 		<author url="https://www.dandwiki.com/wiki/Gnoll_(5e_Race)">D&amp;D Wiki</author>
 		<update version="0.0.6">
-			<file name="race-homunculus.xml" url="https://raw.githubusercontent.com/community-elements/elements-dndwiki/master/dndwiki/races/race-homunculus.xml" />
+			<file name="Gnoll.xml" url="https://raw.githubusercontent.com/community-elements/elements-dndwiki/master/dndwiki/races/race-homunculus.xml" />
 		</update>
 	</info>
 
